@@ -43,7 +43,7 @@
 
     .icon-main1 {
         width: 90%;
-        height: 150px;
+        height: 350px;
         overflow: hidden;
         position: relative;
         justify-content: center;
@@ -56,7 +56,7 @@
 
     .icon-main2 {
         width: 90%;
-        height: 150px;
+        height: 350px;
         overflow: hidden;
         position: relative;
         justify-content: center;
@@ -106,6 +106,7 @@
         padding: 4rem 1rem;
         position: relative;
         left: 0rem;
+        height: 660px;
     }
 
     .accoraion li label {
@@ -116,7 +117,7 @@
     .number-main {
         width: 100%;
         flex-direction: column;
-        height: 470px;
+        height: 530px;
         gap: 0rem;
         justify-content: space-between;
     }
@@ -202,7 +203,7 @@
 
     .services-container {
         width: 100%;
-        height: 1890px;
+        height: 1900px;
         background-color: #99999914;
 
     }
