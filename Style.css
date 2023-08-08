@@ -309,10 +309,10 @@ input[type="radio"] {
     align-items: center;
     color: #0389FF;
     /* font-weight: 100; */
-    padding: 7rem 0;
+    padding: 8rem 0;
     text-align: center;
     gap: 1rem;
-    margin: 4rem 0;
+    /* margin: 4rem 0; */
 
 }
 
@@ -338,7 +338,7 @@ input[type="radio"] {
     text-align: center;
     font-size: 35px;
     font-weight: 100;
-    padding: 2rem 0;
+    padding: 4rem 0;
 }
 
 
@@ -519,8 +519,8 @@ input[type="radio"] {
     height: 55px;
     background-color: #000;
     text-align: center;
-    padding: 16px 24px;
-    margin-top: 5rem;
+    padding: 18px 24px;
+    /* margin-top: 5rem; */
     position: relative;
     left: 35rem;
 
@@ -536,15 +536,15 @@ input[type="radio"] {
 .blog-main {
     width: 80%;
     margin: 8px 104px;
-    padding: 105px 0 80px;
+    padding: 10rem 0 8rem;
     text-align: center;
     justify-content: center;
-    margin-bottom: 0px;
+    /* margin-bottom: 0px; */
 
 }
 
 .blog-head {
-    font-size: 32px;
+    font-size: 35px;
     font-weight: 100;
     padding-bottom: 1rem;
 }
